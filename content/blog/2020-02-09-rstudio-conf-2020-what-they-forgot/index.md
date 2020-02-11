@@ -35,7 +35,8 @@ tools, including `traceback()`, `browser()`, `debug()`, `trace()`, and
 [git and GitHub](https://rstudio-conf-2020.github.io/what-they-forgot/day1_4)
 to track the history of our projects and communicate our results.
 
-Day two began with [personal R administration](https://rstudio-conf-2020.github.io/what-they-forgot/day2_1):
+Day two began with [personal R administration](https://rstudio-conf-2020.github.io/what-they-forgot/day2_1) 
+([part 2](https://rstudio-conf-2020.github.io/what-they-forgot/day2_2)):
 how to maintain your R installation and package libraries, how to set up a
 development environment, how to install source packages and read source code,
 and how to create reproducible project environments with renv. From there, Jenny
